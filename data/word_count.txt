@@ -1,0 +1,5 @@
+hello spark
+hello scala
+hello world
+good choice
+scala is fast
