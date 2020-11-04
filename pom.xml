@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.wsyt.spark.scala</groupId>
-    <artifactId>base-scala-demo</artifactId>
+    <artifactId>spark-base-demo</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
